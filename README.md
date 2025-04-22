@@ -1,5 +1,8 @@
 # Machine-Learning-with-Student-Performance-Dataset-Classification-and-Regression-Model
 
+# Projenin Webinar Linki:
+https://www.youtube.com/live/bBId8ttvRBQ?si=n6_jef3ycqk6c_Wm
+
 # Projenin Amacı: 
 Bu proje, öğrencilerin sınav başarılarını analiz etmek için bir dataset kullanır. Veri setinde öğrencilerin matematik, okuma ve yazma sınavlarında aldıkları puanlar ile çeşitli demografik ve sosyoekonomik faktörler bulunmaktadır. Bu proje, öğrenci başarısını etkileyen faktörleri inceler.
 
